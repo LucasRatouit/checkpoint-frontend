@@ -34,3 +34,4 @@ En bonus, tu pourras compléter le développement :
 Permettre de renseigner un continent (à l'aide d'un select) lors de l'ajout d'un pays.
 Dès que tu as fini, penses à prendre un screenshot de toutes tes pages en mobile et en desktop et à placer ces derniers dans le dossier screenshots, où tu trouveras des exemples visuels des résultats attendus.
 # checkpoint-frontend
+# checkpoint-frontend
